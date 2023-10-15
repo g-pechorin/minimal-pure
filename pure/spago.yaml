@@ -1,0 +1,13 @@
+package:
+  dependencies:
+    - console
+    - effect
+    - prelude
+  name: spago-json
+  test:
+    dependencies: []
+    main: Test.Main
+workspace:
+  extra_packages: {}
+  package_set:
+    registry: 43.1.0
